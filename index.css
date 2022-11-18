@@ -1,0 +1,52 @@
+body {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/1024/512/984/artwork-digital-art-rubik-s-cube-hd-wallpaper-preview.jpg");
+  background-size: cover;
+  font-family:'Lucida Sans';
+  text-align: center;
+  height: 100vh;
+}
+
+.container {
+  background: #4a4e69;
+  max-width: 80%;
+  margin: auto;
+  border: 2px solid #22223b;
+  border-radius: 10px 0;
+}
+
+h1 {
+  margin: 10px 0;
+  text-shadow: 0 0 4px black;
+  color: white;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+button {
+  border: 1px solid black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+#increment-btn {
+  background: #003049;
+  text-shadow: 0 0 4px black;
+}
+
+#save-btn {
+  background: #669bbc;
+  text-shadow: 0 0 4px black;
+}
+
+#save-el {
+  font-weight: bold;
+}
